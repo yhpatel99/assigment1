@@ -2,6 +2,7 @@
 The Car Management System is a Python project designed to represent and manage car objects.  
 
 The Car class is designed to manufacturer: The manufacturer of the car (e.g., Toyota, Ford).
+
   #model: The model of the car (e.g., Camry, Mustang).
   #year: The manufacturing year of the car.
   #mileage: The mileage of the car in miles.
