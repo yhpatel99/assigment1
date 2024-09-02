@@ -32,3 +32,7 @@ The Car class is designed to manufacturer: The manufacturer of the car (e.g., To
   reupholster(self, color): Changes the interior color of the car to the specified color.
   
   modify_price(self, amount): Modifies the price of the car.
+
+  The repair method only allows replacing the engine, transmission, and drivetrain parts. The repair method only allows replacing the engine, transmission, and drivetrain parts.
+
+  This project provides a basic framework for managing car objects and their attributes. It can be extended to include more features and functionalities as needed.
